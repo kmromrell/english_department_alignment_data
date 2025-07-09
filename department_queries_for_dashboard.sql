@@ -1,4 +1,4 @@
-/* English department analytics 
+/* English department analysis 
 Queries are considering these conditions:
 	- Though ACS is a core class, it is not considered a core English class
 	- Calculations use a +/- grade scale (e.g., a B+ is a 3.3, not a 3) -- more specific, but not used to calculate GPA 
